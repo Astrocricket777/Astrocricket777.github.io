@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(245, 245, 245);
+}
+
+h2 {
+    font-family: 'Times New Roman';
+    font-weight: 1;
+    font-size: 25px;
+    font-stretch: ultra-expanded;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+th {
+    font-size: 80%;
+    text-align: left;
+    border-spacing: 2px;
+    line-height: 1px;
+}
+
+td {
+    font-size: 100%;
+}
+p {
+    color: #202122;
+}
+
+li {
+    font-family: sans-serif;
+    font-size: medium;
+}
+
+.TableElement {
+    position: relative;
+    top: 35px;
+}
+
+.LineElement {
+    position: relative;
+    top: 12.5px;
+}
+
+.Infocard {
+    background-color: #85cdda1a;
+    width: 21.5em;
+    height: 36em;
+    border: 1px solid #a2a9b1;
+    border-spacing: 2px;
+    position: relative;
+    left: 1150px;
+    top: 120px;
+    line-height: 1px;
+}
+
+.BodyText {
+    width: 690px;
+    position: relative;
+    font-size: 15.5px;
+    font-family: sans-serif;
+    line-height: 23.5px;
+    left: 420px;
+    top: -460px;
+}
+
+.center {
+    display: block;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.NavBar {
+    position: relative;
+    top: -3280px;
+    width: 1920px;
+    height: 65px;
+}
+
+.PageTitle {
+    font-family: 'Arial-Narrow';
+    font-stretch: ultra-expanded;
+    font-weight: 1;
+    position: relative;
+    left: 100px;
+    top: 20.5px;
+}
+
+
+.TableOfContents {
+    background-color: #80a8af0e;
+    width: 250px;
+    height: 500px;
+    position: fixed;
+    top: 200px;
+    left: 75px;
+    line-height: 30px;
+}
